@@ -1,6 +1,8 @@
 # Reapters
+<img src="https://community.coreldraw.com/resized-image/__size/208x189/__key/communityserver-discussions-components-files/839/pastedimage1514673185189v1.jpeg" width="128"/>
 ### Problem Statement
 Data recovery softwares can easily recover the deleted data from the Hard Disk. Develop an executable code snippet for Microsoft Windows environment to Securely Delete the given file. Deleted file should not be recoverable using any Forensic tool. Any of the common secure deletion practices may be used.
+
 
 ## Solution
 The common method is using the [srm](https://en.wikipedia.org/wiki/Srm_(Unix)) but this is only for unix.
