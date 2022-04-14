@@ -1,5 +1,5 @@
-# Secure Coding Unrecoverable solution by Resikeh
-# Author: Resikesh
+# Secure Coding Unrecoverable solution by Resikeh MR
+# Author: Resikesh M R
 # Enter the file path and it will remove the file 
 
 
